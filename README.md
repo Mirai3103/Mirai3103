@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
--->	
+-->
 
 - 🌱 I’m currently learning at [SGU]
 - 💬 Ask me about every thing
@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: i'm a qbu.
 
 ### Tools:
+
 <img align='left' height="32" width="32" src="./icons/vscode.png" />
 <img align='left' height="32" width="32" src="./icons/webstorm.png" />
 <img align='left' height="32" width="32" src="./icons/git.png" />
@@ -21,21 +22,26 @@ Here are some ideas to get you started:
 <br>
 
 ### Programing languages
+
 <img align='left' height="32" width="32" src="./icons/js.png" />
 <img align='left' height="32" width="32" src="./icons/nodejs.png" />
 <img align='left' height="32" width="32" src="./icons/java.png" />
 <br>
 
 ### Libraries and Frameworks:
+
 <img align='left' height="32" width="32" src="./icons/react.png" />
 <br>
 
 ## Databases:
+
 <img align='left' height="32" width="32" src="./icons/mysql.png" />
 <img align='left' height="32" width="32" src="./icons/postgreSQL.png" />
 <img align='left' height="32" width="32" src="./icons/mongodb.png" />
 <br>
 <br>
 
-[SGU]:https://fit.sgu.edu.vn/site/
-[Facebook]: https://facebook.com/mirai1309
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirai3103&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[sgu]: https://fit.sgu.edu.vn/site/
+[facebook]: https://facebook.com/mirai1309
