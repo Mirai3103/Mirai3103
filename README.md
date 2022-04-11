@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br>
 
 ## Databases:
-<img align='left' height="32" width="32" src="./icons/mongodb.png" />
+<img align='left' height="32" width="32" src="./icons/mysql.png" />
 <img align='left' height="32" width="32" src="./icons/postgreSQL.png" />
 <img align='left' height="32" width="32" src="./icons/mongodb.png" />
 <br>
