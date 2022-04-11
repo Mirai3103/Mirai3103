@@ -5,12 +5,37 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-->	
+
+- 🌱 I’m currently learning at [SGU]
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about every thing
+- 📫 How to reach me: [Facebook]
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: i'm a qbu.
+
+### Tools:
+<img align='left' height="32" width="32" src="./icons/vscode.png" />
+<img align='left' height="32" width="32" src="./icons/webstorm.png" />
+<img align='left' height="32" width="32" src="./icons/git.png" />
+<img align='left' height="32" width="32" src="./icons/pngaaa.com-5539177.png" />
+<img align='left' height="32" width="32" src="./icons/docker.png" />
+<br>
+
+### Programing languages
+<img align='left' height="32" width="32" src="./icons/js.png" />
+<img align='left' height="32" width="32" src="./icons/nodejs.png" />
+<img align='left' height="32" width="32" src="./icons/java.png" />
+<br>
+
+### Libraries and Frameworks:
+<img align='left' height="32" width="32" src="./icons/react.png" />
+<br>
+
+## Databases:
+<img align='left' height="32" width="32" src="./icons/mongodb.png" />
+<img align='left' height="32" width="32" src="./icons/postgreSQL.png" />
+<img align='left' height="32" width="32" src="./icons/mongodb.png" />
+<br>
+<br>
