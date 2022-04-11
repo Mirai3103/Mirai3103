@@ -8,11 +8,8 @@ Here are some ideas to get you started:
 -->	
 
 - 🌱 I’m currently learning at [SGU]
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about every thing
 - 📫 How to reach me: [Facebook]
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: i'm a qbu.
 
 ### Tools:
@@ -39,3 +36,6 @@ Here are some ideas to get you started:
 <img align='left' height="32" width="32" src="./icons/mongodb.png" />
 <br>
 <br>
+
+[SGU]:https://fit.sgu.edu.vn/site/
+[Facebook]: https://facebook.com/mirai1309
