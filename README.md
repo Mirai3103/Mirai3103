@@ -44,5 +44,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirai3103&show_icons=true&theme=radical&count_private=true)]
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirai3103)]
+
 [sgu]: https://fit.sgu.edu.vn/site/
 [facebook]: https://facebook.com/mirai1309
