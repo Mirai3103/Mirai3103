@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img align='left' height="32" width="32" src="./icons/webstorm.png" />
 <img align='left' height="32" width="32" src="./icons/git.png" />
 <img align='left' height="32" width="32" src="./icons/pngaaa.com-5539177.png" />
-<img align='left' height="32" width="32" src="./icons/docker.png" />
+<!-- <img align='left' height="32" width="32" src="./icons/docker.png" /> -->
 <br>
 
 ### Programing languages
