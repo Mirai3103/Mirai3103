@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 ### Programing languages
 
-<img align='left' height="32" width="32" src="./icons/js.png" />
 <img align='left' height="32" width="32" src="./icons/nodejs.png" />
 <img align='left' height="32" width="32" src="./icons/java.png" />
 <br>
