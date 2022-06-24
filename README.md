@@ -12,15 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Facebook]
 - ⚡ Fun fact: i'm a qbu.
 
-### Tools:
-
-<img align='left' height="32" width="32" src="./icons/vscode.png" />
-<img align='left' height="32" width="32" src="./icons/webstorm.png" />
-<img align='left' height="32" width="32" src="./icons/git.png" />
-<img align='left' height="32" width="32" src="./icons/pngaaa.com-5539177.png" />
-<!-- <img align='left' height="32" width="32" src="./icons/docker.png" /> -->
-<br>
-
 ### Programing languages
 
 <img align='left' height="32" width="32" src="./icons/nodejs.png" />
