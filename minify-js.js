@@ -4977,7 +4977,7 @@ const regex =
                 lichHoc: t.flatMap((e) =>
                     e.lichHoc.map((t) => ({
                         p: t.phong,
-                        t: t.thu,
+                        t: z(t.thu),
                         s: t.tietBatDau,
                         k: t.tietKetThuc,
                         v: e.tenMH,
@@ -4989,17 +4989,17 @@ const regex =
     z = (e) => {
         switch (e.toLowerCase()) {
             case "hai":
-                return "MO";
+                return "2";
             case "ba":
-                return "TU";
+                return "3";
             case "tư":
-                return "WE";
+                return "4";
             case "năm":
-                return "TH";
+                return "5";
             case "sáu":
-                return "FR";
+                return "6";
             default:
-                return "SA";
+                return "7";
         }
     };
 getThoiKhoaBieu().then((e) => console.log(JSON.stringify(e.lichHoc)));
