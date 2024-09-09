@@ -85,7 +85,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mirai3103&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mirai3103&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirai3103&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirai3103&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&&exclude_repo=clothing_shop_java,movie-ticket)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mirai3103&theme=discord&no-frame=false&no-bg=true&margin-w=4)
