@@ -1,5 +1,5 @@
 
-#### Just a regular student who wants to help and learn by contributing.
+#### Just a regular peoplepeople who wants to help and learn by contributing.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mirai1309) 
